@@ -1,11 +1,11 @@
 Model Information:
-* title:	Old train
-* source:	https://sketchfab.com/3d-models/old-train-61ad896e69ce4a28b2344d68b9feb85b
-* author:	AVINAS (https://sketchfab.com/AVINAS)
+* title:	FREE 1975 Porsche 911 (930) Turbo
+* source:	https://sketchfab.com/3d-models/free-1975-porsche-911-930-turbo-8568d9d14a994b9cae59499f0dbed21e
+* author:	Karol Miklas (https://sketchfab.com/karolmiklas)
 
 Model License:
-* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-* requirements:	Author must be credited. No commercial use.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Old train" (https://sketchfab.com/3d-models/old-train-61ad896e69ce4a28b2344d68b9feb85b) by AVINAS (https://sketchfab.com/AVINAS) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+This work is based on "FREE 1975 Porsche 911 (930) Turbo" (https://sketchfab.com/3d-models/free-1975-porsche-911-930-turbo-8568d9d14a994b9cae59499f0dbed21e) by Karol Miklas (https://sketchfab.com/karolmiklas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
